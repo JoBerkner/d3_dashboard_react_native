@@ -12,4 +12,5 @@ This repository is an interactive data dashboard for mobile apps using
 
 ![interactive d3 dashboard in React Native](https://github.com/JoBerkner/d3_dashboard_react_native/blob/master/final_app.gif)
 
+## Follow the "Geotorial"
 You can follow the step-by-step proccess of how to create this dashboard in my [Geotorial "Don't Fear The Natives" on YouTube](https://www.youtube.com/watch?v=JFE-B_Q02kc&list=PLIbNDHZVnYuZ6CxbeG5XuCI4Kvt-I--Bz).
