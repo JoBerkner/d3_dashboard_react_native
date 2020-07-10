@@ -8,6 +8,7 @@ This repository is an interactive data dashboard for mobile apps using
 - [react-native-svg](https://github.com/react-native-community/react-native-svg)
 - [topojson-client](https://github.com/topojson/topojson-client)
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+- [datetimepicker](https://github.com/react-native-community/datetimepicker)
 
 ![interactive d3 dashboard in React Native](https://github.com/JoBerkner/d3_dashboard_react_native/blob/master/final_app.gif)
 
